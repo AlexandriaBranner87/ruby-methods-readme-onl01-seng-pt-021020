@@ -1,13 +1,16 @@
-# Use this space to code along with the readme
+```ruby
+def say_hello_world_ten_times
+  phrase = "Hello World!"
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+  puts pharse
+  puts pharse
+end
 
-phrase = "Hello World!"
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+ 
+ 
+  
